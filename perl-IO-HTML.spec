@@ -8,13 +8,13 @@
 Summary:	IO::HTML - Open an HTML file with automatic charset detection
 Summary(pl.UTF-8):	IO::HTML - otwieranie pliku HTML z automatycznym wykrywaniem zestawu znaków
 Name:		perl-IO-HTML
-Version:	1.00
+Version:	1.001
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/IO/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	fdfa3fe3d61a7fda9236c8d9776cdd65
+# Source0-md5:	3f8958718844dc96b9f6946f21d70d22
 URL:		http://search.cpan.org/dist/IO-HTML/
 BuildRequires:	perl-ExtUtils-MakeMaker >= 6.30
 BuildRequires:	perl-devel >= 1:5.8.0
