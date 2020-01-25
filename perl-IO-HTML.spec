@@ -4,7 +4,6 @@
 #
 %define		pdir	IO
 %define		pnam	HTML
-%include	/usr/lib/rpm/macros.perl
 Summary:	IO::HTML - Open an HTML file with automatic charset detection
 Summary(pl.UTF-8):	IO::HTML - otwieranie pliku HTML z automatycznym wykrywaniem zestawu znaków
 Name:		perl-IO-HTML
